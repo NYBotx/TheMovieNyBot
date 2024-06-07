@@ -19,7 +19,7 @@
     "repository": "https://github.com/CyberTG/AutoFilter",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "7062294527:AAEc8N00VW23u0ynjCESJX0mLCST9_ro0_8",
             "required": true
         },
         "API_ID": {
